@@ -9,3 +9,4 @@ Due to the wether experience encountered previously, the purpose of this analysi
 ![December Temps](https://user-images.githubusercontent.com/34757498/142148764-7ef17b78-c3d3-49a9-84a5-1932dce5ccee.png)
 
 # Summary: 
+Looking at the results shown by the tempratures gotten from this two months, it is fair to say that it would be ok to run the shops all through the year, however, I think there might be other factors besides just the tempersture to be considred.
